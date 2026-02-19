@@ -1,50 +1,62 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="amazonwebservices logo"  />
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWgycDhtNTZrYWdjYzA3OXY2a3Y5aWVpcDA2cHhkaHdscGkxd3FheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
-###
+<!--
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+-->
+
+
+<h1 align="center">Hey 👋 I'm Silas</h1>
+<h3 align="center">Full-Stack Developer | Building Scalable & Modern Web Apps</h3>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://skillicons.dev/icons?i=docker,js,tailwind,react,go,git,github,mongo,nodejs" height="60" />
 </div>
 
-###
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://www.linkedin.com/in/silas-lelei-97235864/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://x.com/silaslelei" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&label=&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://discord.gg/yourinvite" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&label=&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://dev.to/silaslelei" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&label=&logo=dev.to&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Silas-Labs&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=Silas-Labs&theme=dracula&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+
+## 🧠 About Me
+
+- 🔭 Currently building full-stack applications  
+- 🐳 Love working with Docker & backend systems  
+- ⚡ Focused on performance, clean code & scalability  
+- 🎯 Always learning and improving  
+
+---
